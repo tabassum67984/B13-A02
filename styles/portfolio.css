@@ -137,3 +137,7 @@ nav .menu a{
     color: #757575;
     line-height: 28px;
 }
+#banner{
+    display: flex;
+    
+}

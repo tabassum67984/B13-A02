@@ -137,11 +137,3 @@ nav .menu a{
     color: #757575;
     line-height: 28px;
 }
-#video .video-container{
-    width: 71%;
-    max-width: 1140px;
-    margin: 0 auto;
-}
-#video .video-container .video-box{
-    display: flex;
-}

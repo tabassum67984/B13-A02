@@ -51,3 +51,26 @@ nav .menu a{
     color: #FFFF;
     text-decoration: none;
 }
+#banner .banner-content {
+    max-width: 585px;
+}
+#banner {
+   margin-right: 95px;
+}
+#banner .banner-content h2{
+    
+    font-size: 45px;
+    font-weight: bold;
+    color: #FFFF;
+    margin-bottom: 20px;
+}
+#banner .banner-content p{
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 20px;
+    line-height: 30px;
+}
+#banner .banner-image {
+    max-width: 300px;
+    
+}

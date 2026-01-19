@@ -25,6 +25,21 @@
     color: white;
 
 }
+
+.section-heading{
+    max-width: 827px;
+    text-align: center;
+    color: white;
+}
+.section-heading h2{
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.section-heading p{
+    font-size: 18px;
+    margin-bottom: 30px;
+    color: #757575;
+}
 header {
     background-color: darkslateblue;
     padding-top: 40px;
@@ -70,7 +85,25 @@ nav .menu a{
     margin-bottom: 20px;
     line-height: 30px;
 }
-#banner .banner-image {
-    max-width: 300px;
-    
+
+#about{
+    padding-top: 130px;
+
+}
+
+#about .about-container{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: darkslateblue;
+}
+#about .about-container .about-info{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info .info-card p{
+    font-size: 20px;
+    line-height: 30px;
+    color: greenyellow;
 }

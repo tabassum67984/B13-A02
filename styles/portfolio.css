@@ -107,3 +107,33 @@ nav .menu a{
     line-height: 30px;
     color: greenyellow;
 }
+
+#skills .skills-container{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+#skills .skills-container .skill-box{
+    display: flex;
+    gap: 24px;
+}
+
+.skill-box .skill-card {
+    padding: 30px;
+    box-shadow: 0 6px 50px 0 #00000061;
+    max-width: 267px;
+}
+.skill-card img {
+    man-width: 44px;
+    margin-bottom: 30px;
+}
+.skill-card h3{
+    font-size: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+.skill-card p {
+    font-size: 16px;
+    color: #757575;
+    line-height: 28px;
+}

@@ -9,7 +9,7 @@
 }
 
 .logo h2{
-    font-size: 45px;
+    font-size: 3rem;
     font-weight: 900;
 }
 .color-blueviolet{
@@ -128,12 +128,12 @@ nav .menu a{
     margin-bottom: 30px;
 }
 .skill-card h3{
-    font-size: 20px;
+    font-size: 1rem;
     color: white;
     margin-bottom: 20px;
 }
 .skill-card p {
-    font-size: 16px;
+    font-size: 1rem;
     color: #757575;
     line-height: 28px;
 }
@@ -141,3 +141,8 @@ nav .menu a{
     display: flex;
     
 }
+@media screen and (max-width:576px) {
+   .skill-card h3,.skill-card p
+}
+    
+
